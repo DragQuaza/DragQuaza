@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Debanjan Maity</h1>
 <h3 align="center">Third-year undergraduate and aspiring full-stack developer</h3>
 
+I am a Full-stack developer and machine learning engineer focused on building systems that work in production, not just in notebooks. Currently at Samsung R&D, I am developing an AI-powered iris spoof detection system for AR/VR devices using CNNs and Transformer architectures in TensorFlow and PyTorch — handling everything from dataset construction to real-time on-device deployment.
+ 
+Across my projects, I build for real use cases. FOKUS CODE is a Chrome Extension for competitive programmers with live contest tracking and reminders. I built a real-time multi-user whiteboard for live collaboration, a RAG-based Stocks Forecasting Engine for hallucination-resistant market insights, a Spring Boot and Angular Fitness Tracker that turns workout logs into visual reports, and an agentic AI restaurant bot that handles menu queries and full reservation management within a chat interface, and many more.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debanjan-maity/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debanjanmaity2018@gmail.com) 
 
